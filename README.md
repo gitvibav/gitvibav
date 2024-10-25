@@ -1,11 +1,11 @@
 # 💫 About Me:
-I'm currently learning and building projects on MERN.<br> 
+I'm currently learning and building projects on MERN<br> 
 I've solved over 1100+ problems across 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-black?style=social&logo=GeeksforGeeks&logoColor=%232F8D46&labelColor=black&color=black)](https://www.geeksforgeeks.org/user/vibavmahendran/) 
 and
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=social&logo=LeetCode&logoColor=%23ED8B00&labelColor=black)](https://leetcode.com/u/vibav_mahendran/)
 <br>
-If you want to collaborate with me on projects, let's connect at vibav2004@gmail.com.
+If you want to collaborate with me on projects, let's connect at vibav2004@gmail.com
 
 
 ## 🌐 Socials:
