@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning and building projects on MERN.<br>I've solved over 1100+ problems on GFG and Leetcode<br>If you want to collaborate on projects, let's connect at vibav2004@gmail.com.
+I'm currently learning and building projects on MERN.<br>I've solved over 1100+ problems on GFG and Leetcode.<br>If you want to collaborate with me on projects, let's connect at vibav2004@gmail.com.
 
 
 ## 🌐 Socials:
