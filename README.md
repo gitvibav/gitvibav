@@ -2,8 +2,10 @@
   
 xD
 
+go // python
+
 backend // distributed systems // ai
 
-<a href="https://gitvibav.github.io/vibav-portfolio/"><strong>website</strong></a> | <a href="https://www.instagram.com/_.vibav._/"><strong>instagram</strong></a>  | <a href="mailto:vibav2004@gmail.com"><strong>email</strong></a>
+<a href="https://leetcode.com/u/vibav_mahendran/"><strong>leetcode</strong></a> | <a href="https://www.geeksforgeeks.org/profile/vibavmahendran?tab=activity"><strong>gfg</strong></a>  | <a href="https://www.instagram.com/_.vibav._/"><strong>instagram</strong></a>  | <a href="mailto:vibav2004@gmail.com"><strong>email</strong></a>
 
 </samp>
